@@ -1,12 +1,13 @@
 # Hello Stranger you can call me Luiz!
 
-## I'm a Full-stack Developer from Brazil working with software since 2014
+## I'm a Technical Leader from Brazil working with software since 2014
 
-### I have more than 6 years of experience in software development
+I have more than 6 years of experience in software development.
+Currently working as a Technical Leader
 
-### Currently working as a Technical Leader
+I'm passionate about Javascript, Elxir, GO, React, React Native, NodeJS and also taking a look at flutter
 
-<br />
+Trying to improove my skills as a software engineer and leading people everytime and everyday.
 
 ## Soft skills
 
@@ -31,6 +32,7 @@
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
