@@ -1,16 +1,48 @@
-### Hi there 👋
+# Hello Stranger you can call me Luiz!
 
-<!--
-**LFSCamargo/LFSCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full-stack Developer from Brazil working with software since 2014
 
-Here are some ideas to get you started:
+### I have more than 6 years of experience in software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - [x] Im the creator of Chatify
+
+### - [x] Im the creator of TunnelJS
+
+### - [x] Currently working as a Tech Lead
+
+<br />
+
+## Soft skills
+
+[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Coder&message=24/7&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
+[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Coworker&message=ALWAYS%20THER%20TO%20HELP&color=pink&style=for-the-badge)](http://github.com/LFSCamargo)
+
+[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Humble&message=really&color=yellow&style=for-the-badge)](http://github.com/LFSCamargo)
+[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Energy%20Level&message=HIGH&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
+
+[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Humble&message=really&color=yellow&style=for-the-badge)](http://github.com/LFSCamargo)
+[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Energy%20Level&message=HIGH&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
+
+<br/>
+
+## Languages, Technologies & Tools
+
+<code><img height="80" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" /></code>
+<code><img height="80" src="https://relay.dev/img/relay.png" /></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" /></code>
+![Thom's github stats](https://github-readme-stats.vercel.app/api/?username=LFSCamargo&show_icons=true&title_color=fff&hide_rank=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
