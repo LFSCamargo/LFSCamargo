@@ -3,25 +3,23 @@
 ## I'm a Full-stack Developer from Brazil working with software since 2014
 
 ### I have more than 6 years of experience in software development
-
-### - [x] Im the creator of Chatify
-
-### - [x] Im the creator of TunnelJS
-
-### - [x] Currently working as a Tech Lead
+### Currently working as a Technical Leader
 
 <br />
 
 ## Soft skills
 
-[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Coder&message=24/7&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
-[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Coworker&message=ALWAYS%20THER%20TO%20HELP&color=pink&style=for-the-badge)](http://github.com/LFSCamargo)
+[](https://img.shields.io/static/v1?label=Coder&message=24/7&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
+[](https://img.shields.io/static/v1?label=Coworker&message=ALWAYS%20THER%20TO%20HELP&color=pink&style=for-the-badge)](http://github.com/LFSCamargo)
 
-[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Humble&message=really&color=yellow&style=for-the-badge)](http://github.com/LFSCamargo)
-[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Energy%20Level&message=HIGH&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
+[](https://img.shields.io/static/v1?label=Humble&message=really&color=yellow&style=for-the-badge)](http://github.com/LFSCamargo)
+[](https://img.shields.io/static/v1?label=Energy%20Level&message=HIGH&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
 
-[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Humble&message=really&color=yellow&style=for-the-badge)](http://github.com/LFSCamargo)
-[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Energy%20Level&message=HIGH&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
+[](https://img.shields.io/static/v1?label=Humble&message=really&color=yellow&style=for-the-badge)](http://github.com/LFSCamargo)
+[](https://img.shields.io/static/v1?label=Energy%20Level&message=HIGH&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
+
+[](https://img.shields.io/static/v1?label=CREATOR&message=Chatify&color=yellow&style=for-the-badge)](http://github.com/LFSCamargo/Chatify)
+[](https://img.shields.io/static/v1?label=CREATOR%20Level&message=TUNNELJS&color=red&style=for-the-badge)](http://github.com/LFSCamargo/tunnel)
 
 <br/>
 
