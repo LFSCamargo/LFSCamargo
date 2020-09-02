@@ -48,8 +48,3 @@ Trying to improove my skills as a software engineer and leading people everytime
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" />
 </div>
-<br />
-<br />
-<br />
-
-![](https://github-readme-stats.vercel.app/api/?username=LFSCamargo&show_icons=true&title_color=fff&hide_rank=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
