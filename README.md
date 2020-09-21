@@ -12,7 +12,7 @@ Trying to improove my skills as a software engineer and leading people everytime
 ## Soft skills
 
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Coder&message=24/7&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
-[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Coworker&message=ALWAYS%20THER%20TO%20HELP&color=deeppink&style=for-the-badge)](http://github.com/LFSCamargo)
+[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Coworker&message=ALWAYS%20THERE%20TO%20HELP&color=deeppink&style=for-the-badge)](http://github.com/LFSCamargo)
 
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Humble&message=really&color=yellow&style=for-the-badge)](http://github.com/LFSCamargo)
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Energy%20Level&message=100%&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
