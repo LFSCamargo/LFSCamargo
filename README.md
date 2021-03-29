@@ -1,9 +1,8 @@
 # Hello Stranger you can call me Luiz!
 
-## I'm a Technical Leader from Brazil working with software since 2014
+## I'm a Software Engineer from Brazil working with software since 2014
 
-I have more than 6 years of experience in software development.
-Currently working as a Technical Leader
+Currently working as a Software Engineer for [X-Team](http://xteam.com/)
 
 I'm passionate about Javascript, Elxir, GO, React, React Native, NodeJS and also taking a look at flutter
 
