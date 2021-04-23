@@ -16,8 +16,8 @@ Trying to improove my skills as a software engineer and leading people everytime
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Humble&message=really&color=yellow&style=for-the-badge)](http://github.com/LFSCamargo)
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Energy%20Level&message=100%&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
 
-[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Company&message=Provi&color=Crimson&style=for-the-badge)](http://github.com/LFSCamargo)
-[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Currently%20Working%20AS&message=Tech%20Lead&color=orange&style=for-the-badge)](http://github.com/LFSCamargo)
+[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Company&message=XTeam&color=Crimson&style=for-the-badge)](http://github.com/LFSCamargo)
+[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Currently%20Working%20AS&message=Software%20Engineer&color=orange&style=for-the-badge)](http://github.com/LFSCamargo)
 
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=CREATOR&message=Chatify&color=teal&style=for-the-badge)](http://github.com/LFSCamargo/Chatify)
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=CREATOR%20Level&message=TUNNELJS&color=dodgerblue&style=for-the-badge)](http://github.com/LFSCamargo/tunnel)
