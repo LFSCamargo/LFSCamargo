@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer from Brazil working with software since 2014
 
-Currently working as a Software Engineer for [X-Team](http://xteam.com/)
+Currently working as a Tech Leaad at Hackachain
 
 I'm passionate about Javascript, Elxir, GO, React, React Native, NodeJS and also taking a look at flutter
 
