@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer from Brazil working with software since 2014
 
-Currently Working and Building [Zaia](zaia.app)!
+Currently Working and Building [Zaia](https://zaia.app)!
 
 I'm passionate about Javascript, Elxir, GO, React, React Native, NodeJS and also taking a look at flutter
 
