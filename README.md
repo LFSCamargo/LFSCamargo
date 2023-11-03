@@ -4,10 +4,6 @@
 
 Currently Working and Building [Zaia](https://zaia.app)!
 
-I'm passionate about Javascript, Elxir, GO, React, React Native, NodeJS and also taking a look at flutter
-
-Trying to improove my skills as a software engineer and leading people everytime and everyday.
-
 ## Soft skills
 
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Coder&message=24/7&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
