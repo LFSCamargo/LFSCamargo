@@ -12,7 +12,7 @@ Currently Working and Building [Zaia](https://zaia.app)!
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Humble&message=really&color=yellow&style=for-the-badge)](http://github.com/LFSCamargo)
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Energy%20Level&message=100%&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
 
-[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Company&message=XTeam&color=Crimson&style=for-the-badge)](http://github.com/LFSCamargo)
+[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Company&message=Zaia&color=purple&style=for-the-badge)](http://github.com/LFSCamargo)
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Currently%20Working%20AS&message=Software%20Engineer&color=orange&style=for-the-badge)](http://github.com/LFSCamargo)
 
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=CREATOR&message=Chatify&color=teal&style=for-the-badge)](http://github.com/LFSCamargo/Chatify)
