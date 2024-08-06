@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer from Brazil working with software since 2014
 
-Currently Working and Building [Zaia](https://zaia.app)!
+Currently Working and Building at [Cheesecake Labs](https://ckl.io)!
 
 ## Soft skills
 
