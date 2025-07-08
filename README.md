@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer from Brazil working with software since 2014
 
-Currently Working and Building at [Cheesecake Labs](https://ckl.io)!
+Currently Working and Building at [Coinbase](https://www.coinbase.com/)!
 
 ## Soft skills
 
@@ -12,7 +12,7 @@ Currently Working and Building at [Cheesecake Labs](https://ckl.io)!
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Humble&message=really&color=yellow&style=for-the-badge)](http://github.com/LFSCamargo)
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Energy%20Level&message=100%&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
 
-[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Company&message=CheesecakeLabs&color=blue&style=for-the-badge)](http://github.com/LFSCamargo)
+[![https://www.coinbase.com](https://img.shields.io/static/v1?label=Company&message=Coinbase&color=blue&style=for-the-badge)](http://github.com/LFSCamargo)
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Currently%20Working%20AS&message=Software%20Engineer&color=orange&style=for-the-badge)](http://github.com/LFSCamargo)
 
 [![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=CREATOR&message=Chatify&color=teal&style=for-the-badge)](http://github.com/LFSCamargo/Chatify)
