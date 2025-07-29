@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer from Brazil working with software since 2014
 
-Currently Working and Building at [Coinbase](https://www.coinbase.com/)!
+Currently Building at [Coinbase](https://www.coinbase.com/)!
 
 ## Soft skills
 
