@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 320" width="1100" height="320" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Fernando  Senior Full-Stack Software Engineer</title>
+  <desc id="desc">Animated profile banner. Based in Brazil, working everywhere.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="55%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#06101f"/>
+    </linearGradient>
+    <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#38bdf8" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0052FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0052FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orbA" cx="30%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#0052FF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0052FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="70%" cy="70%" r="70%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1100" height="320" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1100" height="320" fill="url(#bg)"/>
+    <circle cx="180" cy="80" r="180" fill="url(#orbA)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 40 20; 0 0" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="920" cy="250" r="220" fill="url(#orbB)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -50 -30; 0 0" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <g stroke="#94a3b8" stroke-opacity="0.08" stroke-width="1">
+      <path d="M0 64h1100M0 128h1100M0 192h1100M0 256h1100"/>
+      <path d="M110 0v320M220 0v320M330 0v320M440 0v320M550 0v320M660 0v320M770 0v320M880 0v320M990 0v320"/>
+    </g>
+    <rect x="0" y="0" width="1100" height="320" fill="none" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="2" rx="28"/>
+  </g>
+
+  <text x="70" y="78" fill="#7dd3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="4">
+    THELITTLELUIZ.ME  ·  BRAZIL ’ THE WORLD
+  </text>
+  <text x="70" y="155" fill="url(#text)" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700">
+    Luiz Fernando
+  </text>
+  <text x="70" y="205" fill="#cbd5e1" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="22">
+    Senior Full-Stack Software Engineer · Coinbase
+  </text>
+  <rect x="70" y="232" width="420" height="2" fill="url(#line)">
+    <animate attributeName="width" values="80;420;80" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="70" y="275" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">
+    Ship the hard thing. Make it feel inevitable.
+  </text>
+</svg>

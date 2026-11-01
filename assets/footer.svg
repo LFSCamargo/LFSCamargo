@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 140" width="1100" height="140" role="img">
+  <defs>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0052FF"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#wave)" opacity="0.85" d="M0 70 Q 137 20 275 70 T 550 70 T 825 70 T 1100 70 V140 H0 Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0 70 Q 137 20 275 70 T 550 70 T 825 70 T 1100 70 V140 H0 Z;
+              M0 70 Q 137 110 275 70 T 550 70 T 825 70 T 1100 70 V140 H0 Z;
+              M0 70 Q 137 20 275 70 T 550 70 T 825 70 T 1100 70 V140 H0 Z"/>
+  </path>
+  <path fill="#0052FF" opacity="0.35" d="M0 90 Q 180 50 360 90 T 720 90 T 1100 90 V140 H0 Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0 90 Q 180 50 360 90 T 720 90 T 1100 90 V140 H0 Z;
+              M0 90 Q 180 120 360 90 T 720 90 T 1100 90 V140 H0 Z;
+              M0 90 Q 180 50 360 90 T 720 90 T 1100 90 V140 H0 Z"/>
+  </path>
+  <text x="550" y="128" text-anchor="middle" fill="#e2e8f0" font-family="ui-sans-serif, Helvetica, Arial, sans-serif" font-size="14">
+    Made with intention. And a little curiosity.
+  </text>
+</svg>
