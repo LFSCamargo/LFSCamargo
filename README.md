@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg?v=2" alt="Luiz Fernando — Senior Full-Stack Software Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/LFSCamargo/LFSCamargo/master/assets/banner.svg?v=2" alt="Luiz Fernando — Senior Full-Stack Software Engineer" width="100%" />
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/terminal.svg?v=2" alt="Animated terminal: whoami, mission, focus" width="720" />
+  <img src="https://raw.githubusercontent.com/LFSCamargo/LFSCamargo/master/assets/terminal.svg?v=2" alt="Animated terminal: whoami, mission, focus" width="720" />
 </div>
 
 ---
