@@ -6,8 +6,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Ship+the+hard+thing.+Make+it+feel+inevitable.;Senior+Full-Stack+Engineer+%C2%B7+Coinbase;Fintech+%C2%B7+AI+agents+%C2%B7+Web3+%C2%B7+Gaming;Based+in+Brazil+%C2%B7+Working+everywhere)](https://thelittleluiz.me)
-
 [![Portfolio](https://img.shields.io/badge/thelittleluiz.me-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=38BDF8)](https://thelittleluiz.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/luizfernando-lxspandora/)
 [![X](https://img.shields.io/badge/@thelittleluiz-0d1117?style=for-the-badge&logo=x&logoColor=38BDF8)](https://x.com/thelittleluiz)
@@ -20,9 +18,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LFSCamargo/LFSCamargo/master/assets/terminal.svg?v=2" alt="Animated terminal: whoami, mission, focus" width="720" />
-</div>
+
 
 ---
 
@@ -142,29 +138,33 @@ Notes on engineering, experiments, and things I learn while building.
 
 ---
 
-## GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LFSCamargo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=0052FF&text_color=cbd5e1" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFSCamargo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=cbd5e1" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LFSCamargo&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=0052FF&currStreakLabel=38BDF8" alt="GitHub streak" />
+<div align="left">
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LFSCamargo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=0052FF&text_color=cbd5e1" alt="GitHub stats" />
+      </td>
+      <td width="33%" valign="top">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFSCamargo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=cbd5e1" alt="Top languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LFSCamargo&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=0052FF&currStreakLabel=38BDF8" alt="GitHub streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LFSCamargo/LFSCamargo/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LFSCamargo/LFSCamargo/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/LFSCamargo/LFSCamargo/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/LFSCamargo/LFSCamargo/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="Animated wave footer" width="100%" />
-  <br/>
   <sub>Based in Brazil · Working everywhere · <a href="https://thelittleluiz.me">thelittleluiz.me</a></sub>
+  <img src="./assets/footer.svg" alt="Animated wave footer" width="100%" />
 </div>
