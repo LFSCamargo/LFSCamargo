@@ -62,6 +62,20 @@ Six résumé cuts live on the site: [general](https://thelittleluiz.me/resume) �
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>Orbit</h3>
+      <p><strong>The controller-first game launcher for your Mac.</strong></p>
+      <p>Console-like launcher for macOS (Apple Silicon first) built with Tauri 2, Rust, React, and TypeScript. One library for Steam, Switch titles, Windows games through Wine and Apple's Game Porting Toolkit, emulators, and Mac apps — navigable with a controller or keyboard through a spatial focus system.</p>
+      <p>
+        <a href="https://orbit.thelittleluiz.me">orbit.thelittleluiz.me</a>
+        ·
+        <a href="https://github.com/LFSCamargo/orbit">source</a>
+        ·
+        <a href="https://github.com/LFSCamargo/orbit/releases">releases</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>nvim.setup</h3>
       <p><strong>A quieter place to think.</strong></p>
